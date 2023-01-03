@@ -1,0 +1,45 @@
+body {
+    background-color: #BCEFF1
+}
+
+ header {
+    text-align:center ;
+ }
+
+main{
+    padding: 20px; 
+}
+h1{
+    font-family: 'Sigmar One', cursive;
+}
+h2{
+    font-family: 'Yomogi', cursive;
+}
+
+p{
+    font-family: 'Amatic SC', cursive;
+}
+
+body{
+    color: black;
+}
+ h1{
+    color: #BFA1E9;
+ }
+
+h2{
+    color: #2CDDD5;
+}
+
+img {
+
+    width: 200px;
+    height: 200px;
+    margin: 2rem;
+    border: 10;
+    border-radius: 20px;
+}
+
+li{font-family: 'Courier New', Courier, monospace;
+    color: #7A8AEC ;
+}
